@@ -1,0 +1,156 @@
+﻿Food Category,Food Name,Stall Name,Price,Calories,Protein,Carbohydrates,Fat,Fiber,Sugar,Sodium,Egg-Free,Gluten Free,Dairy Free,Fish Free,Shellfish Free,Peanut free,Treenut Free,Soy Free,Wheat Free
+Vegetable Dishes,Tortang Talong (Half Order),?,30,75,4,5,4,1,1.5,175,0,0,1,1,1,1,1,1,0
+Vegetable Dishes,Ginataang Kalabasa at Sitaw (Half Order),?,30,100,2.5,9,6,1.5,2.5,200,1,1,1,0,0,1,1,1,1
+Vegetable Dishes,Ginataang Langka (Half Order),?,30,90,2,10,5,2,2.5,175,1,1,1,0,0,1,1,1,1
+Vegetable Dishes,Kilawing Puso ng Saging (Half Order),?,30,80,2,7.5,5,1.5,2,150,1,1,1,0,0,1,1,1,1
+Vegetable Dishes,Chopseuy (Half Order),?,30,75,4,6,4,1.5,2,175,1,1,1,0,0,1,1,0,1
+Vegetable Dishes,Vegetable Supreme (Half Order),?,30,60,2,5,3.5,1.5,1.5,125,1,1,1,1,1,1,1,1,1
+Vegetable Dishes,Mixed Vegetables (Half Order),?,30,40,1.5,5,1.5,1.5,2,100,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Glazed Chicken,Chef Alde's,80,672,24.3,125,8.8,1.6,8.1,532,0,0,1,1,1,1,1,1,0
+Chicken Dishes,Honey Garlic Chicken,Chef Alde's,90,674,37.3,94,20.4,1,15.1,609,0,0,1,1,1,1,1,1,0
+Chicken Dishes,Chicken Cordon Bleu,Chef Alde's,100,606,34.3,55,29.4,1.6,2.1,1202,0,0,0,1,1,1,1,1,0
+Chicken Dishes,Chicken Ala King,Chef Alde's,120,506,19.3,65,22.4,2.6,4.1,802,0,0,0,1,1,1,1,0,0
+Chicken Dishes,Chicken Sisig,Chef Alde's,90,676,29.3,57,42.4,3.6,4.1,1002,0,0,1,1,1,1,1,1,0
+Chicken Dishes,Spicy Chicken Wings,Chef Alde's,120,656,29.3,50,39.4,1.6,2.1,902,1,0,1,1,1,1,1,1,0
+Chicken Dishes,Chicken Ala Max,Chef Alde's,150,526,34.3,50,22.4,0.6,1.1,752,1,0,1,1,1,1,1,1,0
+Chicken Dishes,Chicken Inasal,Chef Alde's,120,456,32.3,45,18.4,0.6,1.1,502,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Sweet & Sour Chicken,Chef Alde's,130,586,24.3,90,14.4,3.6,20.1,852,1,0,1,1,1,1,1,0,0
+Seafood Dishes,Fish Fillet w/ Tartar Sauce,Chef Alde's,100,616,26.3,75,24.4,2.6,4.1,902,1,0,0,0,1,1,1,0,0
+Pork Dishes,Fried Pork Siomai,Chef Alde's,80,506,16.3,65,22.4,2.6,3.1,702,0,0,1,1,1,1,1,0,0
+Pork Dishes,Tonkatsu,Chef Alde's,120,726,32.3,85,30.4,3.6,5.1,1202,0,0,1,1,1,1,1,0,0
+Chicken Dishes,Korean Fried Chicken (Dakgangjeong),Chef Alde's,120,1036,35.3,133,53.4,7.6,31.1,4102,1,0,1,1,1,1,1,0,0
+Chicken Dishes,Szechuan Chicken,Chef Alde's,120,506,29.3,63,19.4,2.6,6.1,1202,1,0,1,1,1,1,1,0,0
+Mixed Dishes,Quesadilla,Chef Alde's,90,606,24.3,80,24.4,3.6,2.1,902,0,0,0,1,1,1,1,0,0
+Seafood Dishes,Calamari,Chef Alde's,120,356,19.3,51,11.4,0.6,0.1,502,1,0,1,1,0,1,1,0,0
+Pork Dishes,Pork Teriyaki,Chef Alde's,130,526,28.3,65,20.4,1.6,14.1,1002,1,0,1,1,1,1,1,0,0
+Beef Dishes,Beef Bulgogi,Chef Alde's,120,516,19.3,94,10.4,3.6,14.1,742,1,0,1,1,1,1,1,0,0
+Pork Dishes,Pork Bulgogi,Chef Alde's,120,491,26.3,56,21.4,1.6,10.1,702,1,0,1,1,1,1,1,0,0
+Chicken Dishes,Chicken Bulgogi,Chef Alde's,100,481,31.3,55,16.4,1.6,9.1,682,1,0,1,1,1,1,1,0,0
+Noodle Dishes,Stir-Fry Cheese Ramen,Chef Alde's,100,706,17.3,113,22.4,3.6,5.1,1202,0,0,0,1,1,1,1,0,0
+Noodle Dishes,Cheesy Ramen Ramyeon,Chef Alde's,100,686,14.3,110,20.4,2.6,4.1,1152,0,0,0,1,1,1,1,0,0
+Noodle Dishes,Spicy Cheesy Carbonara,Chef Alde's,100,970.5,32.3,141,33.4,5.6,8.1,752,0,0,0,1,1,1,1,0,0
+Mixed Dishes,Rice Meal + Viand For the day,Chef Alde's,100,806,34.3,125,24.4,5.6,5.1,1202,1,1,1,1,1,1,1,1,1
+Beef Dishes,Ultimate Beef,Chef Alde's,100,606,29.3,55,34.4,0.6,5.1,902,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Chicken Supreme,Chef Alde's,100,706,36.3,78,29.4,0.6,0.1,922,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Chicken Fillet,Chef Alde's,60,496,32.3,49,22.4,0.6,0.1,822,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Chicken Sisig,Chef Alde's,60,406,20.3,51,16.4,2.6,2.1,702,0,0,1,1,1,1,1,1,1
+Chicken Dishes,"Rice Meal Chicken Wings (Honey Sriracha, Gravy, Buffalo, Honey Butter, Yangnyeum, Soy Garlic)",Dream Café,90,656,29.3,85,24.4,3.6,15.1,1202,1,1,1,1,1,1,1,1,1
+Pork Dishes,Hungarian Sausage,Dream Café,90,546,18.3,49,34.4,1.6,2.1,852,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Crispy Fried Chicken,Emilla's,85,576,28.3,53,32.4,1.6,0.1,772,0,0,1,1,1,1,1,1,1
+Beef Dishes,Burger Steak,Emilla's,65,526,24.3,55,28.4,1.6,2.1,752,1,1,1,1,1,1,1,1,1
+Pork Dishes,Lupiang Shanghai,Emilla's,65,326,10.3,59,9.4,1.6,2.1,302,0,0,1,1,1,1,1,1,1
+Pork Dishes,Longganisa,Emilla's,65,426,12.3,51,21.4,0.6,5.1,322,0,0,1,1,1,1,1,1,1
+Pork Dishes,Hotdog,Emilla's,65,356,10.3,47,17.4,0.6,1.1,482,0,0,1,1,1,1,1,1,1
+Pork Dishes,Sweet & Sour Meatballs,Emilla's,65,456,19.3,60,19.4,2.6,8.1,702,1,1,1,1,1,1,1,1,1
+Pork Dishes,Siomai,Emilla's,65,286,10.3,48,9.4,0.6,1.1,182,0,0,1,1,0,1,1,0,0
+Pork Dishes,Emillia's Hickory Pork Belly,Emilla's,135,606,29.3,50,34.4,0.6,4.1,902,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Emillia's Hickory Chicken,Emilla's,165,556,32.3,50,24.4,0.6,3.1,802,1,1,1,1,1,1,1,1,1
+Mixed Dishes,Grilled Fries,Grilled's,95,356,6.3,65,11.4,2.6,1.1,302,1,1,1,1,1,1,1,1,1
+Pork Dishes,Bagnet Kare-kare,Grilled's,95,806,29.3,85,44.4,3.6,6.1,1002,1,0,0,1,1,1,1,1,0
+Beef Dishes,Garlic Pepper Beef,Grilled's,95,556,29.3,55,24.4,1.6,2.1,702,1,1,1,1,1,1,1,1,1
+Chicken Dishes,Chicken Katsu,Grilled's,95,606,32.3,65,24.4,1.6,2.1,802,0,0,1,1,1,1,1,0,0
+Chicken Dishes,Chicken Teriyaki,Grilled's,90,506,30.3,57,19.4,1.6,8.1,802,0,0,1,1,1,1,1,0,0
+Chicken Dishes,Crispy Chicken,PotDog,75,526,24.3,60,24.4,1.6,2.1,702,0,0,1,1,1,1,1,1,1
+Pork Dishes,Crispy Siomai,PotDog,65,296,10.3,50,8.4,0.6,1.1,182,0,0,1,1,0,1,1,0,0
+Seafood Dishes,Crunchy Squid,PotDog,75,286,10.3,49,8.4,0.6,1.1,202,1,0,1,0,0,1,1,0,0
+Seafood Dishes,Shark's Fin Siomai,PotDog,65,286,10.3,49,8.4,0.6,1.1,182,0,0,1,1,0,1,1,0,0
+Seafood Dishes,Squid Nugget,PotDog,65,296,10.3,50,8.4,0.6,1.1,202,1,0,1,0,0,1,1,0,0
+Chicken Dishes,Flavored Fried Chicken,Tapsi Royale,85,583,25.3,51,25.4,0.6,0.1,902,0,0,1,1,1,1,1,0,0
+Mixed Dishes,Cheesy Meat w/ rice,Tapsi Royale,85,656,24.3,105,19.4,3.6,4.1,1102,0,0,0,1,1,1,1,0,0
+Beef Dishes,Burger Steak w/ rice,Tapsi Royale,65,626,29.3,95,19.4,3.6,2.1,902,1,1,1,1,1,1,1,1,1
+Pork Dishes,Sweet & Sour Meatballs,Tapsi Royale,85,456,19.3,60,19.4,2.6,8.1,702,1,1,1,1,1,1,1,1,1
+Pork Dishes,Longsilog,Tapsi Royale,90,556,24.3,75,19.4,2.6,3.1,902,0,0,1,1,1,1,1,0,0
+Beef Dishes,Beef Tapa w/ Rice,Tapsi Royale,85,606,29.3,90,19.4,2.6,3.1,952,1,1,1,1,1,1,1,1,1
+Pork Dishes,Tapsilog,Tapsi Royale,99,586,26.3,85,18.4,2.6,2.1,852,0,0,1,1,1,1,1,0,0
+Pork Dishes,Porkchop & Gravy,Tapsi Royale,85,656,32.3,60,34.4,1.6,2.1,902,0,0,1,1,1,1,1,0,0
+Seafood Dishes,Fish Fillet w/ Rice,Tapsi Royale,85,526,24.3,75,14.4,1.6,1.1,702,1,0,0,0,1,1,1,0,0
+Pork Dishes,Sisig w/ rice,Tapsi Royale,85,656,29.3,85,24.4,2.6,3.1,1102,0,0,1,1,1,1,1,0,0
+Pork Dishes,Dimsum Rice 4PCS. Siomai,?,55,656,29.3,100,19.4,2.6,2.1,1002,0,0,1,1,1,1,1,0,0
+Beef Dishes,Beef Tapa w/ Rice,?,85,606,29.3,90,19.4,2.6,3.1,952,1,1,1,1,1,1,1,1,1
+Beef Dishes,Beef With Mushroom,?,85,556,34.3,55,24.4,2.6,2.1,802,1,1,1,1,1,1,1,1,1
+Beef Dishes,Beef Caldereta,?,85,606,29.3,65,29.4,2.6,4.1,902,0,0,1,1,1,1,1,0,0
+Beef Dishes,Beef Teriyaki,?,85,556,34.3,65,19.4,1.6,5.1,852,0,0,1,1,1,1,1,0,0
+Beef Dishes,Beef Brocolli,?,85,526,29.3,65,19.4,3.6,3.1,802,1,1,1,1,1,1,1,1,1
+Beef Dishes,Beef Nilaga,?,85,506,24.3,65,19.4,2.6,2.1,702,1,1,1,1,1,1,1,1,1
+Pork Dishes,Crispy Sisig,?,75,656,29.3,60,34.4,2.6,2.1,902,0,0,1,1,1,1,1,0,0
+Pork Dishes,Lechon Kawali,?,75,706,29.3,55,44.4,1.6,2.1,952,1,1,1,1,1,1,1,0,1
+Pork Dishes,Lechon Paksiw,?,75,686,29.3,57,39.4,1.6,3.1,902,1,1,1,1,1,1,1,0,1
+Pork Dishes,Giniling with Egg,?,75,556,24.3,60,24.4,2.6,2.1,802,0,1,0,1,1,1,1,0,1
+Pork Dishes,Menudo,?,75,606,29.3,65,29.4,2.6,4.1,902,0,0,0,1,1,1,1,0,0
+Pork Dishes,Porkchop Steak,?,75,656,32.3,60,34.4,1.6,2.1,902,1,1,1,1,1,1,1,0,1
+Pork Dishes,Bopis,?,75,506,24.3,55,24.4,1.6,2.1,802,1,1,1,1,1,1,1,0,1
+Pork Dishes,Dinuguan,?,75,461,38.3,55,24.4,1.6,2.1,322,1,1,1,1,1,1,1,0,1
+Pork Dishes,Bicol Express,?,75,624,31.3,56,35.4,1.6,4.1,209,1,1,1,1,1,1,1,0,1
+Pork Dishes,Binagoongan,?,75,506,24.3,53,26.4,1.6,3.1,952,1,1,1,1,1,1,1,0,1
+Pork Dishes,Pork BBQ,?,35,456,22.3,55,20.4,1.6,5.1,702,1,1,1,1,1,1,1,0,1
+Chicken Dishes,Fried Chicken,?,65,583,25.3,51,25.4,0.6,0.1,902,1,0,1,1,1,1,1,0,0
+Chicken Dishes,Chicken Ala Max,?,65,556,34.3,57,19.4,1.6,2.1,752,1,0,1,1,1,1,1,0,0
+Chicken Dishes,Chicken Adobo,?,65,556,29.3,55,24.4,1.6,2.1,802,1,0,1,1,1,1,1,0,0
+Chicken Dishes,Chicken Ala King,?,65,586,34.3,60,22.4,2.6,3.1,852,1,0,0,1,1,1,1,0,0
+Chicken Dishes,Chicken Pastel,?,65,606,29.3,65,26.4,2.6,3.1,902,1,0,0,1,1,1,1,0,0
+Chicken Dishes,Chicken Afritada,?,65,556,29.3,65,19.4,3.6,4.1,802,1,0,0,1,1,1,1,0,0
+Chicken Dishes,Chicken Fillet,?,50,496,32.3,49,22.4,0.6,0.1,822,1,0,1,1,1,1,1,0,0
+Vegetable Dishes,Tortang Talong,?,55,356,12.3,55,12.4,2.6,3.1,352,0,0,1,1,1,1,1,1,0
+Vegetable Dishes,Ginataang Kalabasa at Sitaw,?,55,406,9.3,63,16.4,3.6,5.1,402,1,1,1,0,0,1,1,1,1
+Vegetable Dishes,Ginataang Langka,?,55,386,8.3,65,14.4,4.6,5.1,352,1,1,1,0,0,1,1,1,1
+Vegetable Dishes,Kilawing Puso ng Saging,?,55,366,8.3,60,14.4,3.6,4.1,302,1,1,1,0,0,1,1,1,1
+Vegetable Dishes,Chopseuy,?,55,356,12.3,57,12.4,3.6,4.1,352,1,1,1,0,0,1,1,0,1
+Vegetable Dishes,Vegetable Supreme,?,55,326,8.3,55,11.4,3.6,3.1,252,1,1,1,1,1,1,1,1,1
+Vegetable Dishes,Mixed Vegetables,?,55,286,7.3,55,7.4,3.6,4.1,202,1,1,1,1,1,1,1,1,1
+Breakfast Dishes,Pancakes,Chef Alde's,100,227,6,38,6,1,8,450,0,0,0,1,1,1,1,0,0
+Breakfast Dishes,"Pandesal (Corned Tuna or Beef, Ham & Cheese)",Chef Alde's,100,300,12,40,10,2,6,600,0,0,0,1,1,1,1,0,0
+Chicken Dishes,Chicken Crackling,Chef Alde's,50,150,8,6,10,0,0,400,1,0,1,1,1,1,1,0,0
+Appetizers,Spring Roll,Chef Alde's,60,120,4,15,5,1,2,300,1,0,1,1,1,1,1,0,0
+Appetizers,Shanghai,Chef Alde's,60,250,12,20,15,2,3,500,0,0,1,1,1,1,1,0,0
+Appetizers,Turon,Chef Alde's,60,180,2,30,5,2,15,200,0,0,1,1,1,1,1,1,0
+Appetizers,Okoy,Chef Alde's,60,150,5,18,7,1,1,350,0,0,1,1,1,1,1,0,0
+Chicken Dishes,Chicken Gizzard,Chef Alde's,60,80,15,0,2,0,0,60,1,0,1,1,1,1,1,0,0
+Sandwiches,Egg Drop Sandwich,Chef Alde's,90,350,15,40,15,3,6,850,0,0,0,1,1,1,1,0,0
+Sandwiches,Peanut & Jelly Sandwich,Chef Alde's,60,350,12,40,15,3,18,450,0,0,0,1,1,0,1,0,0
+Sandwiches,Flying Saucer,Chef Alde's,40,280,10,34,12,2,6,600,1,0,1,1,1,1,1,0,0
+Appetizers,Empanada,Chef Alde's,40,200,6,22,10,2,2,300,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pizza + Pasta,Dream Café,100,600,22,80,20,5,8,1100,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pasta + Wings,Dream Café,130,700,30,60,35,6,5,1200,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pizza + Wings,Dream Café,130,750,32,70,35,6,6,1300,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pizza + Pasta + Wings,Dream Café,150,950,40,100,40,8,10,1500,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pizza + Pasta + Burger Steak,Dream Café,180,1100,45,90,55,10,8,1700,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pizza + Pasta + Sausage,Dream Café,180,1000,42,95,45,9,9,1600,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pizza + Pasta + Wings + Sausage,Dream Café,200,1300,50,120,60,12,12,1800,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Baked Mac Pasta,Dream Café,80,500,20,70,15,3,5,800,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Mac N Cheese,Dream Café,80,376,9,37.9,16,2.3,6.7,518,0,0,0,1,1,1,1,0,0
+Pasta Dishes,Pesto,Dream Café,90,280,4,4,28,1,1,500,1,0,0,1,1,1,1,0,0
+Pasta Dishes,Chicken Alfredo,Dream Café,90,570,30,42,30,2,3,1000,0,0,0,1,1,1,1,0,0
+Pizza Dishes,Cheese Slice Pizza,Dream Café,75,272,12,33,10,2,4,640,0,0,0,1,1,1,1,0,0
+Pizza Dishes,Pepperoni Slice Pizza,Dream Café,75,298,13,34,12,2,4,720,0,0,0,1,1,1,1,0,0
+Pizza Dishes,Ham and Cheese Slice Pizza,Dream Café,75,280,14,32,11,2,3,700,0,0,0,1,1,1,1,0,0
+Pizza Dishes,Hawaiian Slice Pizza,Dream Café,80,285,13,34,11,2,5,720,0,0,0,1,1,1,1,0,0
+Pizza Dishes,HPB Slice Pizza,Dream Café,90,310,15,35,12,3,4,750,0,0,0,1,1,1,1,0,0
+Pizza Dishes,Shawarma Slice Pizza,Dream Café,90,320,16,34,14,3,4,760,0,0,0,1,1,1,1,0,0
+Pizza Dishes,All Cheese Pizza,Dream Café,100,520,25,40,30,3,7,950,0,0,0,1,1,1,1,0,0
+Sandwiches,Burger,Grilled's,100,272,12,33,10,2,4,640,0,0,0,1,1,1,1,0,0
+Mixed Dishes,Cheezy Spinach,Grilled's,125,180,8,10,12,2,3,350,0,0,0,1,1,1,1,0,0
+Mixed Dishes,Triple Cheese Beef,Grilled's,100,320,20,15,20,1,2,700,0,0,0,1,1,1,1,0,0
+Chicken Dishes,Chicken Wrap,Grilled's,95,290,20,25,12,3,2,600,0,0,0,1,1,1,1,0,0
+Seafood Dishes,Lobster Ball,PotDog,65,250,20,5,15,1,2,600,1,1,1,0,0,1,1,0,1
+Seafood Dishes,Crab Claw,PotDog,65,70,6,4,3,0,1,200,1,1,1,0,0,1,1,0,1
+Seafood Dishes,Crablet,PotDog,65,60,6,4,2,0,1,180,1,1,1,0,0,1,1,0,1
+Seafood Dishes,Kikiam,PotDog,55,50,5,2,2,0,0,150,1,1,1,0,0,1,1,0,1
+Seafood Dishes,Crab Egg,PotDog,28,80,6,5,3,1,1,200,1,1,1,0,0,1,1,0,1
+Seafood Dishes,Chicken Ball,PotDog,65,80,6,4,4,0,1,150,1,1,1,1,1,1,1,0,1
+Seafood Dishes,Squid Ball,PotDog,28,70,6,3,3,0,1,200,1,1,1,0,0,1,1,0,1
+Seafood Dishes,Fish Ball,PotDog,28,60,5,3,2,0,0,180,1,1,1,0,0,1,1,0,1
+Side Dishes,Potato Wedges,PotDog,18,60,5,3,2,0,0,180,1,1,1,1,1,1,1,0,1
+Side Dishes,Potato Slice,PotDog,75,150,2,20,7,2,1,300,1,1,1,1,1,1,1,0,1
+Pork Dishes,Pork Siomai,PotDog,85,120,2,18,5,2,1,250,0,0,1,1,1,1,1,0,0
+Seafood Dishes,Shark's Fin Siomai,?,39,80,6,3,5,0,1,180,0,0,1,1,1,1,1,0,0
+Seafood Dishes,Japanese Siomai,?,39,80,6,4,4,0,1,180,0,0,1,1,1,1,1,0,0
+Seafood Dishes,Mix Siomai,?,39,85,6,4,4,0,1,190,0,0,1,1,1,1,1,0,0
+Noodle Dishes,Fried Noodles 2PCS. Siomai,?,39,85,6,4,4,0,1,190,0,0,1,1,1,1,1,0,0
+Noodle Dishes,Jumbo Noodle 4PCS. Siomai,?,45,400,20,50,15,2,3,1000,0,0,1,1,1,1,1,0,0
+Noodle Dishes,Fried Noodles Plain,?,69,500,30,60,20,3,4,1200,1,0,1,1,1,1,1,0,0
+Salads,Mango Kani Roll 5PCS,?,30,300,10,50,10,2,1,800,1,1,1,0,0,1,1,0,1
+Salads,Mango Kani Salad,?,120,200,8,25,8,2,6,400,1,1,1,0,0,1,1,0,1
+Salads,Mango Kani Salad,?,100,150,5,18,7,3,6,350,1,1,1,0,0,1,1,0,1
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,Rice,No name,,206,4.3,45,0.4,0.6,0.1,2,,,,,,,,,
